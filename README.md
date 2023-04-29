@@ -24,8 +24,8 @@ Course 1 of the [Software Testing and Automation Specialization](../)
 >"After completing this course, you will have an understanding of the fundamental principles and processes of software testing. You will have actively created test cases and run them using an automated testing tool. You will being writing and recognizing good test cases, including input data and expected outcomes.
 >
 >After completing this course, you will be able to…
-- Describe the difference between verification and validation.
-- Explain the goal of testing.
+>- Describe the difference between verification and validation.
+>- Explain the goal of testing.
 - Use appropriate test terminology in communication; specifically: test fixture, logical test case, concrete test case, test script, test oracle, and fault.
 - Describe the motivations for white and black box testing.
 - Compare and contrast test-first and test-last development techniques.
