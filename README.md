@@ -26,19 +26,19 @@ Course 1 of the [Software Testing and Automation Specialization](../)
 >After completing this course, you will be able to…
 >- Describe the difference between verification and validation.
 >- Explain the goal of testing.
-- Use appropriate test terminology in communication; specifically: test fixture, logical test case, concrete test case, test script, test oracle, and fault.
-- Describe the motivations for white and black box testing.
-- Compare and contrast test-first and test-last development techniques.
-- Measure test adequacy using statement and branch coverage.
-- Reason about the causes and acceptability of and poor coverage
-- Assess the fault-finding effectiveness of a functional test suite using mutation testing.
-- Critique black-box and white-box testing, describing the benefits and use of each within the greater development effort.
-- Distinguish among the expected-value (true), heuristic, consistency (as used in A/B regression), and probability test oracles and select the one best-suited to the testing objective.
-- Craft unit and integration test cases to detect defects within code and automate these tests using JUnit.  To achieve this, students will employ test doubles to support their tests, including stubs (for state verification) and mocks (for behavioral verification) (https://martinfowler.com/articles/mocksArentStubs.html).
+>- Use appropriate test terminology in communication; specifically: test fixture, logical test case, concrete test case, test script, test oracle, and fault.
+>- Describe the motivations for white and black box testing.
+>- Compare and contrast test-first and test-last development techniques.
+>- Measure test adequacy using statement and branch coverage.
+>- Reason about the causes and acceptability of and poor coverage
+>- Assess the fault-finding effectiveness of a functional test suite using mutation testing.
+>- Critique black-box and white-box testing, describing the benefits and use of each within the greater development effort.
+>- Distinguish among the expected-value (true), heuristic, consistency (as used in A/B regression), and probability test oracles and select the one best-suited to the testing objective.
+>- Craft unit and integration test cases to detect defects within code and automate these tests using JUnit.  To achieve this, students will employ test doubles to support their tests, including stubs (for state verification) and mocks (for behavioral verification) (https://martinfowler.com/articles/mocksArentStubs.html).
+>
+>This course is primarily aimed at those learners interested in any of the following roles: Software Engineer, Software Engineer in Test, Test Automation Engineer, DevOps Engineer, Software Developer, Programmer, Computer Enthusiast. We expect that you should have an understanding of the Java programming language (or any similar object-oriented language and the ability to pick up Java syntax quickly) and some knowledge of the Software Development Lifecycle."
 
-This course is primarily aimed at those learners interested in any of the following roles: Software Engineer, Software Engineer in Test, Test Automation Engineer, DevOps Engineer, Software Developer, Programmer, Computer Enthusiast. We expect that you should have an understanding of the Java programming language (or any similar object-oriented language and the ability to pick up Java syntax quickly) and some knowledge of the Software Development Lifecycle."
-
-<p align="right">More details on <a href="course_homepage">website</a></p>
+<p align="right">More details on <a href="https://www.coursera.org/learn/introduction-software-testing">website</a></p>
 
 ## Content
 This folder contains 
@@ -52,9 +52,9 @@ This folder contains
 - [x] [certificate](./Certificate/certificate.pdf) ([verification](certificate_link))
 
 ## Syllabus
-- [Week 1](./Week%201): week1_title
-- [Week 2](./Week%202): week2_title
-- [Week 3](./Week%203): week3_title
-- [Week 4](./Week%204): week4_title
+- [Week 1](./Week%201): Introduction
+- [Week 2](./Week%202): Testing Foundations
+- [Week 3](./Week%203): Testing in the Software Development Lifecycle
+- [Week 4](./Week%204): Writing Good Unit Tests
 
 [^1]: For ethical reasons I do not share my assignments. It is strictly against [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US). However, for every assignment I give a detailed description of the original problem, I highlight the main principles and techniques the problem wants to check, and I share the source code of another similar problem. The publicly available source code uses approximately the same principles and techniques as the original (sometimes a bit more). 
