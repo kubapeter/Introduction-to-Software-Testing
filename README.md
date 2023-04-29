@@ -2,7 +2,7 @@
   <img src="/img/course_logo" width="150" align="right">
 </a>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/1920px-University_of_Minnesota_Logo.svg.png" width="120" height="120" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/1920px-University_of_Minnesota_Logo.svg.png" width="120" height="68" align="left">
 
 # Course Title
 
