@@ -4,24 +4,39 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/1920px-University_of_Minnesota_Logo.svg.png" width="120" height="68" align="left">
 
-# Course Title
+# Introduction to Software Testing
 
 Offered by 
-### *Uni*
+### *University of Minnesota*
 
-Taught by: [Lecturer](lecturer_link)
+Taught by: [Sanjai Rayadurgam](https://www.coursera.org/instructor/rsanjai) and [Kevin Wendt](https://www.coursera.org/instructor/kevin-wendt)
 
 ---
 
-**? hours** to complete - ? quizzes, ? written and ? [coding assignments]
+**30 hours** to complete - 1 quiz, 1 written and 4 [coding assignments]
 
-Course ? of the [spec_title](../) 
+Course 1 of the [Software Testing and Automation Specialization](../) 
 
 ---
 
 ## Course description
 
->"descripton"
+>"After completing this course, you will have an understanding of the fundamental principles and processes of software testing. You will have actively created test cases and run them using an automated testing tool. You will being writing and recognizing good test cases, including input data and expected outcomes.
+>
+>After completing this course, you will be able to…
+- Describe the difference between verification and validation.
+- Explain the goal of testing.
+- Use appropriate test terminology in communication; specifically: test fixture, logical test case, concrete test case, test script, test oracle, and fault.
+- Describe the motivations for white and black box testing.
+- Compare and contrast test-first and test-last development techniques.
+- Measure test adequacy using statement and branch coverage.
+- Reason about the causes and acceptability of and poor coverage
+- Assess the fault-finding effectiveness of a functional test suite using mutation testing.
+- Critique black-box and white-box testing, describing the benefits and use of each within the greater development effort.
+- Distinguish among the expected-value (true), heuristic, consistency (as used in A/B regression), and probability test oracles and select the one best-suited to the testing objective.
+- Craft unit and integration test cases to detect defects within code and automate these tests using JUnit.  To achieve this, students will employ test doubles to support their tests, including stubs (for state verification) and mocks (for behavioral verification) (https://martinfowler.com/articles/mocksArentStubs.html).
+
+This course is primarily aimed at those learners interested in any of the following roles: Software Engineer, Software Engineer in Test, Test Automation Engineer, DevOps Engineer, Software Developer, Programmer, Computer Enthusiast. We expect that you should have an understanding of the Java programming language (or any similar object-oriented language and the ability to pick up Java syntax quickly) and some knowledge of the Software Development Lifecycle."
 
 <p align="right">More details on <a href="course_homepage">website</a></p>
 
